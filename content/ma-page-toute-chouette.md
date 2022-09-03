@@ -20,7 +20,7 @@ image = ""
 block = "three-column-1"
 template = "3-column-text"
 [page_sections.col_1]
-content = ""
+content = "Ma colonne 1 ?"
 headline = ""
 [page_sections.col_2]
 content = ""
