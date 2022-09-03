@@ -24,7 +24,7 @@ content = "Ma colonne 1 ?"
 headline = ""
 [page_sections.col_2]
 content = ""
-headline = ""
+headline = "M'titre de colonne 2..."
 [page_sections.col_3]
 content = ""
 headline = ""
