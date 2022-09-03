@@ -1,0 +1,32 @@
++++
+date = 2022-09-02T22:06:00Z
+layout = "blocks"
+title = "Ma page toute chouette"
+[[page_sections]]
+block = "header-1"
+logo = ""
+navigation = []
+template = "navigation-header"
+[[page_sections]]
+block = "feature-1"
+content = ""
+headline = ""
+media_alignment = "Right"
+template = "content-feature"
+[page_sections.media]
+alt_text = ""
+image = ""
+[[page_sections]]
+block = "three-column-1"
+template = "3-column-text"
+[page_sections.col_1]
+content = ""
+headline = ""
+[page_sections.col_2]
+content = ""
+headline = ""
+[page_sections.col_3]
+content = ""
+headline = ""
+
++++
