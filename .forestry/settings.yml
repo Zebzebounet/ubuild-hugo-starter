@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/homepage.md
   label: Page d'accueil
-  match: "**/*"
 - type: document
   path: README-FORESTRY.md
   label: Help
